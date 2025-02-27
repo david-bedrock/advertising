@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+   <vmap:AdBreak breakType="linear" timeOffset="start">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true">
+         <vmap:VASTAdData>
+<VAST version="4.2">
+   <Ad sequence="1" id="346061:0">
+      <InLine>
+         <AdTitle><![CDATA[Messmer Cold Tea 15s]]></AdTitle>
+         <AdSystem>SXP</AdSystem>
+         <Impression><![CDATA[https://viewbox.realytics.net/?m=1&e=1&b=4&o=99&p=69&v=3&lp=DIR_452135&cp=DIR_17198&ap=346061&kp=31419&t=1740586436&r=1046903&sp=in]]></Impression>
+         <Impression><![CDATA[https://stats.smartclip.net/stats/beacon?3;31419;400x320;DIR_452135;346061;iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7;ep=1740586436]]></Impression>
+         <Impression><![CDATA[https://stats.sxp.smartclip.net/count?type=imp&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&ang_streamid=a2147ac8-0463-483c-96cc-90c310b61c66]]></Impression>
+         <Impression><![CDATA[https://cm.g.doubleclick.net/pixel?google_nid=smartclip_dbm&google_cm&google_sc&gdpr=1&gdpr_consent=]]></Impression>
+         <Impression><![CDATA[https://match.adsrvr.org/track/cmf/generic?ttd_pid=smartclip&ttd_tpi=1&ttd_puid=daf7db4a-575f-FEEE-9645-882fbfd004a6&gdpr=&gdpr_consent=]]></Impression>
+         <Impression><![CDATA[https://r.turn.com/r/bd?ddc=1&pid=65&uid=daf7db4a-575f-FEEE-9645-882fbfd004a6&gdpr=1&gdpr_consent=]]></Impression>
+         <Impression><![CDATA[https://c1.adform.net/serving/cookie/match?party=20&gdpr=&gdpr_consent=&id=daf7db4a-575f-FEEE-9645-882fbfd004a6&forward=https%3A%2F%2Fsync.sxp.smartclip.net%2Fsync%3Ftype%3Dhost%26dsp%3D31%26uuid%3Ddaf7db4a-575f-FEEE-9645-882fbfd004a6%26dspuuid%3D{dspuuid}]]></Impression>
+         <Impression><![CDATA[https://d5p.de17a.com/getuid/smartclip?uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Impression>
+         <Impression><![CDATA[https://secure.adnxs.com/getuid?https://sync.sxp.smartclip.net/sync?type=host&dsp=43&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&dspuuid=$UID&gdpr=&gdpr_consent=]]></Impression>
+         <Impression><![CDATA[https://match.adsby.bidtheatre.com/smartclipmatch?uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&gdpr=1&gdpr_consent=]]></Impression>
+         <Impression><![CDATA[https://dsp-cookie.adfarm1.adition.com/?ssp=18&gdpr=1&gdpr_consent=&cburl=https%3A%2F%2Fsync.sxp.smartclip.net%2Fsync%3Ftype%3Dhost%26dsp%3D50%26uuid%3Ddaf7db4a-575f-FEEE-9645-882fbfd004a6%26dspuuid%3D%5Bdsp_uuid%5D]]></Impression>
+         <Impression><![CDATA[https://pr-bh.ybp.yahoo.com/sync/smartx/daf7db4a-575f-FEEE-9645-882fbfd004a6?gdpr=1&gdpr_consent=]]></Impression>
+         <Impression><![CDATA[https://sync-tm.everesttech.net/upi/pid/TgE5lmfi?gdpr=&gdpr_consent=&redir=https%3A%2F%2Fsync.sxp.smartclip.net%2Fsync%3Ftype%3Dhost%26dsp%3D73%26uuid%3Ddaf7db4a-575f-FEEE-9645-882fbfd004a6%26dspuuid%3D%24%7BTM_USER_ID%7D]]></Impression>
+         <Impression><![CDATA[https://tr.technical-service.net/pixel.gif?c_id=344&scid=daf7db4a-575f-FEEE-9645-882fbfd004a6&mobi=23fd2a64-f671-49d4-9fc3-ed16748fb4e5&campaign=DIR_17198&lineitem=DIR_452135&ref=https://plus.rtl.de&pubid=9757&site=31419&place=0&placegroup=0&netwerk=10036&imp_uuid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&context=&reqid=41b60073-b39e-4be3-8c1e-41bf218fb0d5&gdpr_consent=yes&fwd_ghc=545028d9-7471-4cc8-a4f0-65c04e557d0d&fwd_tthc=]]></Impression>
+         <Impression><![CDATA[https://cms.quantserve.com/pixel/p-3khwXEyjvvMHA.gif?idmatch=0&partner_user_id=daf7db4a-575f-FEEE-9645-882fbfd004a6&gdpr=&gdpr_consent=]]></Impression>
+         <Impression><![CDATA[https://servedby.flashtalking.com/imp/2/187800;6642803;201;gifimpid;Smartclip;API/?ft_impID=5b14e5df-d812-45b6-8f50-7dee051e4fc7&ft_creative=3978600&ft_custom=test_rtlp_vox/hundkatzemaus_1&gdpr=1&gdpr_consent=&cachebuster=1630789]]></Impression>
+         <Extensions>
+            <Extension type="AdServer" name="SXP">
+               <AdInfo cpg="DIR_17198" ite="DIR_452135" crea="346061" variant="NORMAL" />
+            </Extension>
+            <Extension type="AdServer" name="SXP">
+               <AdInfo ite="DIR_452135" crea="346061" cpg="DIR_17198" variant="NORMAL" />
+            </Extension>
+         </Extensions>
+         <AdServingId>SXP-5b14e5df-d812-45b6-8f50-7dee051e4fc7</AdServingId>
+         <Error><![CDATA[https://stats.sxp.smartclip.net/count?type=error&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&error=[ERRORCODE]]]></Error>
+         <ViewableImpression>
+            <Viewable><![CDATA[https://stats.sxp.smartclip.net/count?type=Viewable&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Viewable>
+            <NotViewable><![CDATA[https://stats.sxp.smartclip.net/count?type=NotViewable&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></NotViewable>
+            <ViewUndetermined><![CDATA[https://stats.sxp.smartclip.net/count?type=ViewUndetermined&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></ViewUndetermined>
+         </ViewableImpression>
+         <Creatives>
+            <Creative>
+               <UniversalAdId idRegistry="unknown">unknown</UniversalAdId>
+               <Linear>
+                  <TrackingEvents>
+                     <Tracking event="pause"><![CDATA[https://stats.sxp.smartclip.net/count?type=pause&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="unmute"><![CDATA[https://stats.sxp.smartclip.net/count?type=unmute&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="mute"><![CDATA[https://stats.sxp.smartclip.net/count?type=mute&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="playerExpand"><![CDATA[https://stats.sxp.smartclip.net/count?type=playerExpand&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="resume"><![CDATA[https://stats.sxp.smartclip.net/count?type=resume&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="playerCollapse"><![CDATA[https://stats.sxp.smartclip.net/count?type=playerCollapse&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="skip"><![CDATA[https://stats.sxp.smartclip.net/count?type=skip&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://stats.sxp.smartclip.net/count?type=midpoint&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="firstQuartile"><![CDATA[https://stats.sxp.smartclip.net/count?type=firstQuartile&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://stats.sxp.smartclip.net/count?type=start&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="thirdQuartile"><![CDATA[https://stats.sxp.smartclip.net/count?type=thirdQuartile&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="complete"><![CDATA[https://stats.sxp.smartclip.net/count?type=complete&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://servedby.flashtalking.com/state/6642803;3978600;0;271;5b14e5df-d812-45b6-8f50-7dee051e4fc7/?cachebuster=4633367]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;187800;6642803;3978600;0;13;5b14e5df-d812-45b6-8f50-7dee051e4fc7;0;8995994-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="firstQuartile"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;187800;6642803;3978600;0;14;5b14e5df-d812-45b6-8f50-7dee051e4fc7;0;3077572-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;187800;6642803;3978600;0;15;5b14e5df-d812-45b6-8f50-7dee051e4fc7;0;2035058-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="thirdQuartile"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;187800;6642803;3978600;0;16;5b14e5df-d812-45b6-8f50-7dee051e4fc7;0;4575048-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="complete"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;187800;6642803;3978600;0;17;5b14e5df-d812-45b6-8f50-7dee051e4fc7;0;3883072-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                  </TrackingEvents>
+                  <Duration>00:00:15.000</Duration>
+                  <MediaFiles>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="750" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/165945/1657532769_asset_640_360_750_2500.mp]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1100" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/165945/1657532769_asset_640_360_1100_2500.mp]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="960" height="540" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/165945/1657532769_asset_960_540_1500_2500.mp]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/165945/1657532769_asset_640_360_1500_2500.mp]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1800" width="1280" height="720" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/165945/1657532769_asset_1280_720_1800_2500.mp]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="2000" width="960" height="540" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/165945/1657532769_asset_960_540_2000_2500.mp]]></MediaFile>
+                     <Mezzanine><![CDATA[https://cdn.smartclip.net/creatives/uploads/12707/346061/1657532769_asset_wm.mp]]></Mezzanine>
+                  </MediaFiles>
+                  <VideoClicks>
+                     <ClickTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=cli&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></ClickTracking>
+                     <ClickTracking><![CDATA[https://servedby.flashtalking.com/click/2/187800;6642803;3978600;211;0/?ft_impID=5b14e5df-d812-45b6-8f50-7dee051e4fc7&ft_custom=test_rtlp_vox/hundkatzemaus_1&gdpr=1&gdpr_consent=&cachebuster=9679247&url=https%3A%2F%2Fstats.sxp.smartclip.net%2Fimg%2Ftrpx.gif]]></ClickTracking>
+                     <ClickThrough />
+                  </VideoClicks>
+                  <Icons>
+                     <Icon program="dsainfo" width="18" height="18" xPosition="left" yPosition="top">
+                        <StaticResource creativeType="image/png"><![CDATA[https://cdn.smartclip.net/assets/oba/OBA_60%25.png]]></StaticResource>
+                        <IconViewTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=IconView&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></IconViewTracking>
+                        <IconClicks>
+                           <IconClickThrough><![CDATA[https://privacy-portal.smartclip.net/dsa/info?dsabehalf=tw1.ip.de&dsapaid=tw1.ip.de&dsatransparency=smartclip.net~1_2_3&dsaparams=1_2_3&dsasignature=e4210755ef1e938e77eb39edea1b20a5db50dac40c0370fa00379efe31ab06d9]]></IconClickThrough>
+                           <IconClickTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=IconClick&cr=346061&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=5b14e5df-d812-45b6-8f50-7dee051e4fc7&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></IconClickTracking>
+                        </IconClicks>
+                     </Icon>
+                  </Icons>
+               </Linear>
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
+   <Ad sequence="2" id="390488:0">
+      <InLine>
+         <AdTitle><![CDATA[Zicke Zacke Huehnerkacke 15s]]></AdTitle>
+         <AdSystem>SXP</AdSystem>
+         <Impression><![CDATA[https://viewbox.realytics.net/?m=1&e=1&b=4&o=99&p=69&v=3&lp=DIR_452135&cp=DIR_17198&ap=390488&kp=31419&t=1740586436&r=1215428&sp=in]]></Impression>
+         <Impression><![CDATA[https://stats.smartclip.net/stats/beacon?3;31419;400x320;DIR_452135;390488;iid=23994136-20e4-47ba-b49d-74d4e48de8fb;ep=1740586436]]></Impression>
+         <Impression><![CDATA[https://stats.sxp.smartclip.net/count?type=imp&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&ang_streamid=a2147ac8-0463-483c-96cc-90c310b61c66]]></Impression>
+         <Impression><![CDATA[https://servedby.flashtalking.com/imp/2/223290;7800456;201;gifimpid;Smartclip;API/?ft_impID=23994136-20e4-47ba-b49d-74d4e48de8fb&ft_creative=4515864&ft_custom=test_rtlp_vox/hundkatzemaus_1&gdpr=1&gdpr_consent=&cachebuster=4948064]]></Impression>
+         <Extensions>
+            <Extension type="AdServer" name="SXP">
+               <AdInfo cpg="DIR_17198" ite="DIR_452135" crea="390488" variant="NORMAL" />
+            </Extension>
+            <Extension type="AdServer" name="SXP">
+               <AdInfo ite="DIR_452135" crea="390488" cpg="DIR_17198" variant="NORMAL" />
+            </Extension>
+         </Extensions>
+         <AdServingId>SXP-23994136-20e4-47ba-b49d-74d4e48de8fb</AdServingId>
+         <Error><![CDATA[https://stats.sxp.smartclip.net/count?type=error&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&error=[ERRORCODE]]]></Error>
+         <ViewableImpression>
+            <Viewable><![CDATA[https://stats.sxp.smartclip.net/count?type=Viewable&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Viewable>
+            <NotViewable><![CDATA[https://stats.sxp.smartclip.net/count?type=NotViewable&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></NotViewable>
+            <ViewUndetermined><![CDATA[https://stats.sxp.smartclip.net/count?type=ViewUndetermined&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></ViewUndetermined>
+         </ViewableImpression>
+         <Creatives>
+            <Creative>
+               <UniversalAdId idRegistry="unknown">unknown</UniversalAdId>
+               <Linear>
+                  <TrackingEvents>
+                     <Tracking event="pause"><![CDATA[https://stats.sxp.smartclip.net/count?type=pause&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="unmute"><![CDATA[https://stats.sxp.smartclip.net/count?type=unmute&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="mute"><![CDATA[https://stats.sxp.smartclip.net/count?type=mute&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="playerExpand"><![CDATA[https://stats.sxp.smartclip.net/count?type=playerExpand&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="resume"><![CDATA[https://stats.sxp.smartclip.net/count?type=resume&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="playerCollapse"><![CDATA[https://stats.sxp.smartclip.net/count?type=playerCollapse&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="skip"><![CDATA[https://stats.sxp.smartclip.net/count?type=skip&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://stats.sxp.smartclip.net/count?type=midpoint&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="firstQuartile"><![CDATA[https://stats.sxp.smartclip.net/count?type=firstQuartile&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://stats.sxp.smartclip.net/count?type=start&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="thirdQuartile"><![CDATA[https://stats.sxp.smartclip.net/count?type=thirdQuartile&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="complete"><![CDATA[https://stats.sxp.smartclip.net/count?type=complete&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://servedby.flashtalking.com/state/7800456;4515864;0;271;23994136-20e4-47ba-b49d-74d4e48de8fb/?cachebuster=5452530]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;223290;7800456;4515864;0;13;23994136-20e4-47ba-b49d-74d4e48de8fb;0;3380966-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="firstQuartile"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;223290;7800456;4515864;0;14;23994136-20e4-47ba-b49d-74d4e48de8fb;0;2561609-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;223290;7800456;4515864;0;15;23994136-20e4-47ba-b49d-74d4e48de8fb;0;4225019-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="thirdQuartile"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;223290;7800456;4515864;0;16;23994136-20e4-47ba-b49d-74d4e48de8fb;0;90457-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="complete"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;223290;7800456;4515864;0;17;23994136-20e4-47ba-b49d-74d4e48de8fb;0;8845257-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                  </TrackingEvents>
+                  <Duration>00:00:14.980</Duration>
+                  <MediaFiles>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="750" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188983/1699027072_asset_640_360_750_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1100" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188983/1699027072_asset_640_360_1100_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="960" height="540" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188983/1699027072_asset_960_540_1500_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188983/1699027072_asset_640_360_1500_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1800" width="1280" height="720" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188983/1699027072_asset_1280_720_1800_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="2000" width="960" height="540" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188983/1699027072_asset_960_540_2000_2500.mp4]]></MediaFile>
+                     <Mezzanine><![CDATA[https://cdn.smartclip.net/creatives/uploads/12707/390488/1699027072_asset_wm.mp4]]></Mezzanine>
+                  </MediaFiles>
+                  <VideoClicks>
+                     <ClickTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=cli&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></ClickTracking>
+                     <ClickTracking><![CDATA[https://servedby.flashtalking.com/click/2/223290;7800456;4515864;211;0/?ft_impID=23994136-20e4-47ba-b49d-74d4e48de8fb&ft_custom=test_rtlp_vox/hundkatzemaus_1&gdpr=1&gdpr_consent=&cachebuster=8360163&url=https%3A%2F%2Fstats.sxp.smartclip.net%2Fimg%2Ftrpx.gif]]></ClickTracking>
+                     <ClickThrough />
+                  </VideoClicks>
+                  <Icons>
+                     <Icon program="dsainfo" width="18" height="18" xPosition="left" yPosition="top">
+                        <StaticResource creativeType="image/png"><![CDATA[https://cdn.smartclip.net/assets/oba/OBA_60%25.png]]></StaticResource>
+                        <IconViewTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=IconView&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></IconViewTracking>
+                        <IconClicks>
+                           <IconClickThrough><![CDATA[https://privacy-portal.smartclip.net/dsa/info?dsabehalf=romina-eiszeit.de&dsapaid=romina-eiszeit.de&dsatransparency=smartclip.net~1_2_3&dsaparams=1_2_3&dsasignature=e11d58cb61c56359e171942e0ea4af119d3740c30c7fc5eff5d9700b530e5b22]]></IconClickThrough>
+                           <IconClickTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=IconClick&cr=390488&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=23994136-20e4-47ba-b49d-74d4e48de8fb&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></IconClickTracking>
+                        </IconClicks>
+                     </Icon>
+                  </Icons>
+               </Linear>
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
+   <Ad sequence="3" id="390002:0">
+      <InLine>
+         <AdTitle><![CDATA[SchoenerWohnen | 5s]]></AdTitle>
+         <AdSystem>SXP</AdSystem>
+         <Impression><![CDATA[https://viewbox.realytics.net/?m=1&e=1&b=4&o=99&p=69&v=3&lp=DIR_452135&cp=DIR_17198&ap=390002&kp=31419&t=1740586436&r=2348095&sp=in]]></Impression>
+         <Impression><![CDATA[https://stats.smartclip.net/stats/beacon?3;31419;400x320;DIR_452135;390002;iid=a966a83a-f170-4601-a5c8-bbf5583524de;ep=1740586436]]></Impression>
+         <Impression><![CDATA[https://stats.sxp.smartclip.net/count?type=imp&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&ang_streamid=a2147ac8-0463-483c-96cc-90c310b61c66]]></Impression>
+         <Impression><![CDATA[https://tps30.doubleverify.com/visit.jpg?ctx=484047&cmp=DV065001&sid=smartclip&plc=ctvapp&advid=3819603&adsrv=0&tagtype=&dvtagver=6.1.src&DVP_PP_REP=1&DVP_IQM_ID=15&DVP_DV_TT=2&DVP_SC_PUB=9757&DVP_SC_SITE=31419&DVP_SC_PLC=0&DVP_SC_CID=DIR_17198&DVP_SC_LIID=DIR_452135&DVP_SC_CRID=390002&turl=https://plus.rtl.de&DVP_PP_BUNDLE_ID=B01MTVGZE1&DVP_SC_NID=10036&gdpr=1&gdpr_consent=]]></Impression>
+         <Impression><![CDATA[https://servedby.flashtalking.com/imp/2/222684;7782309;201;gifimpid;Smartclip;API/?ft_impID=a966a83a-f170-4601-a5c8-bbf5583524de&ft_creative=4508300&ft_custom=test_rtlp_vox/hundkatzemaus_1&gdpr=1&gdpr_consent=&cachebuster=8403409]]></Impression>
+         <Extensions>
+            <Extension type="AdServer" name="SXP">
+               <AdInfo cpg="DIR_17198" ite="DIR_452135" crea="390002" variant="NORMAL" />
+            </Extension>
+            <Extension type="AdServer" name="SXP">
+               <AdInfo ite="DIR_452135" crea="390002" cpg="DIR_17198" variant="NORMAL" />
+            </Extension>
+         </Extensions>
+         <AdServingId>SXP-a966a83a-f170-4601-a5c8-bbf5583524de</AdServingId>
+         <Error><![CDATA[https://stats.sxp.smartclip.net/count?type=error&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&error=[ERRORCODE]]]></Error>
+         <ViewableImpression>
+            <Viewable><![CDATA[https://stats.sxp.smartclip.net/count?type=Viewable&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Viewable>
+            <NotViewable><![CDATA[https://stats.sxp.smartclip.net/count?type=NotViewable&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></NotViewable>
+            <ViewUndetermined><![CDATA[https://stats.sxp.smartclip.net/count?type=ViewUndetermined&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></ViewUndetermined>
+         </ViewableImpression>
+         <Creatives>
+            <Creative>
+               <UniversalAdId idRegistry="unknown">unknown</UniversalAdId>
+               <Linear>
+                  <TrackingEvents>
+                     <Tracking event="pause"><![CDATA[https://stats.sxp.smartclip.net/count?type=pause&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="unmute"><![CDATA[https://stats.sxp.smartclip.net/count?type=unmute&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="mute"><![CDATA[https://stats.sxp.smartclip.net/count?type=mute&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="playerExpand"><![CDATA[https://stats.sxp.smartclip.net/count?type=playerExpand&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="resume"><![CDATA[https://stats.sxp.smartclip.net/count?type=resume&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="playerCollapse"><![CDATA[https://stats.sxp.smartclip.net/count?type=playerCollapse&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="skip"><![CDATA[https://stats.sxp.smartclip.net/count?type=skip&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://stats.sxp.smartclip.net/count?type=midpoint&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="firstQuartile"><![CDATA[https://stats.sxp.smartclip.net/count?type=firstQuartile&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://stats.sxp.smartclip.net/count?type=start&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="thirdQuartile"><![CDATA[https://stats.sxp.smartclip.net/count?type=thirdQuartile&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="complete"><![CDATA[https://stats.sxp.smartclip.net/count?type=complete&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://servedby.flashtalking.com/state/7782309;4508300;0;271;a966a83a-f170-4601-a5c8-bbf5583524de/?cachebuster=2237741]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;222684;7782309;4508300;0;13;a966a83a-f170-4601-a5c8-bbf5583524de;0;9226872-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="firstQuartile"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;222684;7782309;4508300;0;14;a966a83a-f170-4601-a5c8-bbf5583524de;0;9584120-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;222684;7782309;4508300;0;15;a966a83a-f170-4601-a5c8-bbf5583524de;0;309829-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="thirdQuartile"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;222684;7782309;4508300;0;16;a966a83a-f170-4601-a5c8-bbf5583524de;0;7517867-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="complete"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;222684;7782309;4508300;0;17;a966a83a-f170-4601-a5c8-bbf5583524de;0;5290943-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                  </TrackingEvents>
+                  <Duration>00:00:05.020</Duration>
+                  <MediaFiles>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="750" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188692/1698675492_asset_640_360_750_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1100" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188692/1698675492_asset_640_360_1100_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="960" height="540" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188692/1698675492_asset_960_540_1500_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188692/1698675492_asset_640_360_1500_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1800" width="1280" height="720" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188692/1698675492_asset_1280_720_1800_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="2000" width="960" height="540" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188692/1698675492_asset_960_540_2000_2500.mp4]]></MediaFile>
+                     <Mezzanine><![CDATA[https://cdn.smartclip.net/creatives/uploads/12707/390002/1698675492_asset_wm.mp4]]></Mezzanine>
+                  </MediaFiles>
+                  <VideoClicks>
+                     <ClickTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=cli&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></ClickTracking>
+                     <ClickTracking><![CDATA[https://servedby.flashtalking.com/click/2/222684;7782309;4508300;211;0/?ft_impID=a966a83a-f170-4601-a5c8-bbf5583524de&ft_custom=test_rtlp_vox/hundkatzemaus_1&gdpr=1&gdpr_consent=&cachebuster=700355&url=https%3A%2F%2Fstats.sxp.smartclip.net%2Fimg%2Ftrpx.gif]]></ClickTracking>
+                     <ClickThrough><![CDATA[https://www.schoener-wohnen.de/]]></ClickThrough>
+                  </VideoClicks>
+                  <Icons>
+                     <Icon program="dsainfo" width="18" height="18" xPosition="left" yPosition="top">
+                        <StaticResource creativeType="image/png"><![CDATA[https://cdn.smartclip.net/assets/oba/OBA_60%25.png]]></StaticResource>
+                        <IconViewTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=IconView&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></IconViewTracking>
+                        <IconClicks>
+                           <IconClickThrough><![CDATA[https://privacy-portal.smartclip.net/dsa/info?dsabehalf=rtlexclusive.de&dsapaid=rtlexclusive.de&dsatransparency=smartclip.net~1_2_3&dsaparams=1_2_3&dsasignature=a5ebae567740e7c99a2d3a765c91a5ec2869b4f542a984555793a708ca1ef34c]]></IconClickThrough>
+                           <IconClickTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=IconClick&cr=390002&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=a966a83a-f170-4601-a5c8-bbf5583524de&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></IconClickTracking>
+                        </IconClicks>
+                     </Icon>
+                  </Icons>
+               </Linear>
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
+   <Ad sequence="4" id="346020:0">
+      <InLine>
+         <AdTitle><![CDATA[Dallmayr 15s]]></AdTitle>
+         <AdSystem>SXP</AdSystem>
+         <Impression><![CDATA[https://viewbox.realytics.net/?m=1&e=1&b=4&o=99&p=69&v=3&lp=DIR_452135&cp=DIR_17198&ap=346020&kp=31419&t=1740586436&r=9339962&sp=in]]></Impression>
+         <Impression><![CDATA[https://stats.smartclip.net/stats/beacon?3;31419;400x320;DIR_452135;346020;iid=ae25278a-00d5-4c2b-8362-1d076872e922;ep=1740586436]]></Impression>
+         <Impression><![CDATA[https://stats.sxp.smartclip.net/count?type=imp&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&ang_streamid=a2147ac8-0463-483c-96cc-90c310b61c66]]></Impression>
+         <Impression><![CDATA[https://servedby.flashtalking.com/imp/2/187757;6640891;201;gifimpid;Smartclip;API/?ft_impID=ae25278a-00d5-4c2b-8362-1d076872e922&ft_creative=3977774&ft_custom=test_rtlp_vox/hundkatzemaus_1&gdpr=1&gdpr_consent=&cachebuster=2258103]]></Impression>
+         <Extensions>
+            <Extension type="AdServer" name="SXP">
+               <AdInfo cpg="DIR_17198" ite="DIR_452135" crea="346020" variant="NORMAL" />
+            </Extension>
+            <Extension type="AdServer" name="SXP">
+               <AdInfo ite="DIR_452135" crea="346020" cpg="DIR_17198" variant="NORMAL" />
+            </Extension>
+         </Extensions>
+         <AdServingId>SXP-ae25278a-00d5-4c2b-8362-1d076872e922</AdServingId>
+         <Error><![CDATA[https://stats.sxp.smartclip.net/count?type=error&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&error=[ERRORCODE]]]></Error>
+         <ViewableImpression>
+            <Viewable><![CDATA[https://stats.sxp.smartclip.net/count?type=Viewable&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Viewable>
+            <NotViewable><![CDATA[https://stats.sxp.smartclip.net/count?type=NotViewable&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></NotViewable>
+            <ViewUndetermined><![CDATA[https://stats.sxp.smartclip.net/count?type=ViewUndetermined&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></ViewUndetermined>
+         </ViewableImpression>
+         <Creatives>
+            <Creative>
+               <UniversalAdId idRegistry="unknown">unknown</UniversalAdId>
+               <Linear>
+                  <TrackingEvents>
+                     <Tracking event="pause"><![CDATA[https://stats.sxp.smartclip.net/count?type=pause&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="unmute"><![CDATA[https://stats.sxp.smartclip.net/count?type=unmute&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="mute"><![CDATA[https://stats.sxp.smartclip.net/count?type=mute&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="playerExpand"><![CDATA[https://stats.sxp.smartclip.net/count?type=playerExpand&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="resume"><![CDATA[https://stats.sxp.smartclip.net/count?type=resume&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="playerCollapse"><![CDATA[https://stats.sxp.smartclip.net/count?type=playerCollapse&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="skip"><![CDATA[https://stats.sxp.smartclip.net/count?type=skip&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://stats.sxp.smartclip.net/count?type=midpoint&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="firstQuartile"><![CDATA[https://stats.sxp.smartclip.net/count?type=firstQuartile&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://stats.sxp.smartclip.net/count?type=start&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="thirdQuartile"><![CDATA[https://stats.sxp.smartclip.net/count?type=thirdQuartile&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="complete"><![CDATA[https://stats.sxp.smartclip.net/count?type=complete&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://servedby.flashtalking.com/state/6640891;3977774;0;271;ae25278a-00d5-4c2b-8362-1d076872e922/?cachebuster=5789482]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;187757;6640891;3977774;0;13;ae25278a-00d5-4c2b-8362-1d076872e922;0;2588016-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="firstQuartile"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;187757;6640891;3977774;0;14;ae25278a-00d5-4c2b-8362-1d076872e922;0;3394485-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;187757;6640891;3977774;0;15;ae25278a-00d5-4c2b-8362-1d076872e922;0;6918784-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="thirdQuartile"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;187757;6640891;3977774;0;16;ae25278a-00d5-4c2b-8362-1d076872e922;0;4827866-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="complete"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;187757;6640891;3977774;0;17;ae25278a-00d5-4c2b-8362-1d076872e922;0;7868422-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                  </TrackingEvents>
+                  <Duration>00:00:15.000</Duration>
+                  <MediaFiles>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="750" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/165914/1657293271_asset_640_360_750_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1100" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/165914/1657293271_asset_640_360_1100_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="960" height="540" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/165914/1657293271_asset_960_540_1500_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/165914/1657293271_asset_640_360_1500_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1800" width="1280" height="720" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/165914/1657293271_asset_1280_720_1800_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="2000" width="960" height="540" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/165914/1657293271_asset_960_540_2000_2500.mp4]]></MediaFile>
+                     <Mezzanine><![CDATA[https://cdn.smartclip.net/creatives/uploads/12707/346020/1657293271_asset_wm.mp4]]></Mezzanine>
+                  </MediaFiles>
+                  <VideoClicks>
+                     <ClickTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=cli&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></ClickTracking>
+                     <ClickTracking><![CDATA[https://servedby.flashtalking.com/click/2/187757;6640891;3977774;211;0/?ft_impID=ae25278a-00d5-4c2b-8362-1d076872e922&ft_custom=test_rtlp_vox/hundkatzemaus_1&gdpr=1&gdpr_consent=&cachebuster=6624650&url=https%3A%2F%2Fstats.sxp.smartclip.net%2Fimg%2Ftrpx.gif]]></ClickTracking>
+                     <ClickThrough />
+                  </VideoClicks>
+                  <Icons>
+                     <Icon program="dsainfo" width="18" height="18" xPosition="left" yPosition="top">
+                        <StaticResource creativeType="image/png"><![CDATA[https://cdn.smartclip.net/assets/oba/OBA_60%25.png]]></StaticResource>
+                        <IconViewTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=IconView&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></IconViewTracking>
+                        <IconClicks>
+                           <IconClickThrough><![CDATA[https://privacy-portal.smartclip.net/dsa/info?dsabehalf=example.com&dsapaid=example.com&dsatransparency=smartclip.net~1_2_3&dsaparams=1_2_3&dsasignature=146c6987948daac1c61a339bff2b910e882e68a9ccb621126165b064a8fc0d2e]]></IconClickThrough>
+                           <IconClickTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=IconClick&cr=346020&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=ae25278a-00d5-4c2b-8362-1d076872e922&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></IconClickTracking>
+                        </IconClicks>
+                     </Icon>
+                  </Icons>
+               </Linear>
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
+   <Ad id="389997:0">
+      <InLine>
+         <AdTitle><![CDATA[Pixel 8 Pro | 15s]]></AdTitle>
+         <AdSystem>SXP</AdSystem>
+         <Impression><![CDATA[https://viewbox.realytics.net/?m=1&e=1&b=4&o=99&p=69&v=3&lp=DIR_452135&cp=DIR_17198&ap=389997&kp=31419&t=1740586436&r=4721428&sp=in]]></Impression>
+         <Impression><![CDATA[https://stats.smartclip.net/stats/beacon?3;31419;400x320;DIR_452135;389997;iid=425226a5-cc6f-4651-a094-4cfb9469a654;ep=1740586436]]></Impression>
+         <Impression><![CDATA[https://stats.sxp.smartclip.net/count?type=imp&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&ang_streamid=a2147ac8-0463-483c-96cc-90c310b61c66]]></Impression>
+         <Impression><![CDATA[https://servedby.flashtalking.com/imp/2/222683;7782307;201;gifimpid;Smartclip;API/?ft_impID=425226a5-cc6f-4651-a094-4cfb9469a654&ft_creative=4508298&ft_custom=test_rtlp_vox/hundkatzemaus_1&gdpr=1&gdpr_consent=&cachebuster=7443117]]></Impression>
+         <Extensions>
+            <Extension type="AdServer" name="SXP">
+               <AdInfo cpg="DIR_17198" ite="DIR_452135" crea="389997" variant="NORMAL" />
+            </Extension>
+            <Extension type="AdServer" name="SXP">
+               <AdInfo ite="DIR_452135" crea="389997" cpg="DIR_17198" variant="NORMAL" />
+            </Extension>
+         </Extensions>
+         <AdServingId>SXP-425226a5-cc6f-4651-a094-4cfb9469a654</AdServingId>
+         <Error><![CDATA[https://stats.sxp.smartclip.net/count?type=error&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&error=[ERRORCODE]]]></Error>
+         <ViewableImpression>
+            <Viewable><![CDATA[https://stats.sxp.smartclip.net/count?type=Viewable&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Viewable>
+            <NotViewable><![CDATA[https://stats.sxp.smartclip.net/count?type=NotViewable&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></NotViewable>
+            <ViewUndetermined><![CDATA[https://stats.sxp.smartclip.net/count?type=ViewUndetermined&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></ViewUndetermined>
+         </ViewableImpression>
+         <Creatives>
+            <Creative>
+               <UniversalAdId idRegistry="unknown">unknown</UniversalAdId>
+               <Linear>
+                  <TrackingEvents>
+                     <Tracking event="pause"><![CDATA[https://stats.sxp.smartclip.net/count?type=pause&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="unmute"><![CDATA[https://stats.sxp.smartclip.net/count?type=unmute&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="mute"><![CDATA[https://stats.sxp.smartclip.net/count?type=mute&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="playerExpand"><![CDATA[https://stats.sxp.smartclip.net/count?type=playerExpand&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="resume"><![CDATA[https://stats.sxp.smartclip.net/count?type=resume&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="playerCollapse"><![CDATA[https://stats.sxp.smartclip.net/count?type=playerCollapse&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="skip"><![CDATA[https://stats.sxp.smartclip.net/count?type=skip&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://stats.sxp.smartclip.net/count?type=midpoint&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="firstQuartile"><![CDATA[https://stats.sxp.smartclip.net/count?type=firstQuartile&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://stats.sxp.smartclip.net/count?type=start&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="thirdQuartile"><![CDATA[https://stats.sxp.smartclip.net/count?type=thirdQuartile&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="complete"><![CDATA[https://stats.sxp.smartclip.net/count?type=complete&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://servedby.flashtalking.com/state/7782307;4508298;0;271;425226a5-cc6f-4651-a094-4cfb9469a654/?cachebuster=9665156]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;222683;7782307;4508298;0;13;425226a5-cc6f-4651-a094-4cfb9469a654;0;8846412-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="firstQuartile"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;222683;7782307;4508298;0;14;425226a5-cc6f-4651-a094-4cfb9469a654;0;828381-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;222683;7782307;4508298;0;15;425226a5-cc6f-4651-a094-4cfb9469a654;0;9810581-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="thirdQuartile"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;222683;7782307;4508298;0;16;425226a5-cc6f-4651-a094-4cfb9469a654;0;9776324-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="complete"><![CDATA[https://ad-events.flashtalking.com/ft.stat?3936;222683;7782307;4508298;0;17;425226a5-cc6f-4651-a094-4cfb9469a654;0;924236-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                  </TrackingEvents>
+                  <Duration>00:00:15.020</Duration>
+                  <MediaFiles>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="750" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188691/1698675305_asset_640_360_750_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1100" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188691/1698675305_asset_640_360_1100_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="960" height="540" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188691/1698675305_asset_960_540_1500_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188691/1698675305_asset_640_360_1500_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1800" width="1280" height="720" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188691/1698675305_asset_1280_720_1800_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="2000" width="960" height="540" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.flashtalking.com/188691/1698675305_asset_960_540_2000_2500.mp4]]></MediaFile>
+                     <Mezzanine><![CDATA[https://cdn.smartclip.net/creatives/uploads/12707/389997/1698675305_asset_wm.mp4]]></Mezzanine>
+                  </MediaFiles>
+                  <VideoClicks>
+                     <ClickTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=cli&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></ClickTracking>
+                     <ClickTracking><![CDATA[https://servedby.flashtalking.com/click/2/222683;7782307;4508298;211;0/?ft_impID=425226a5-cc6f-4651-a094-4cfb9469a654&ft_custom=test_rtlp_vox/hundkatzemaus_1&gdpr=1&gdpr_consent=&cachebuster=7907329&url=https%3A%2F%2Fstats.sxp.smartclip.net%2Fimg%2Ftrpx.gif]]></ClickTracking>
+                     <ClickThrough><![CDATA[https://store.google.com/de/product/pixel_8?hl=de]]></ClickThrough>
+                  </VideoClicks>
+                  <Icons>
+                     <Icon program="dsainfo" width="18" height="18" xPosition="left" yPosition="top">
+                        <StaticResource creativeType="image/png"><![CDATA[https://cdn.smartclip.net/assets/oba/OBA_60%25.png]]></StaticResource>
+                        <IconViewTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=IconView&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></IconViewTracking>
+                        <IconClicks>
+                           <IconClickThrough><![CDATA[https://privacy-portal.smartclip.net/dsa/info?dsabehalf=pokemongo.de&dsapaid=pokemongo.de&dsatransparency=smartclip.net~1_2_3&dsaparams=1_2_3&dsasignature=41689a4722ae390500c19b82b4afdd1f91520ffc95adbf18589329441745a402]]></IconClickThrough>
+                           <IconClickTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=IconClick&cr=389997&ite=DIR_452135&cpg=DIR_17198&adv=DIR_12707&sitid=31419&pub=9757&iid=425226a5-cc6f-4651-a094-4cfb9469a654&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></IconClickTracking>
+                        </IconClicks>
+                     </Icon>
+                  </Icons>
+               </Linear>
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
+   <Ad id="440916:0">
+      <InLine>
+         <AdTitle><![CDATA[Test | Verpoorten | 10s]]></AdTitle>
+         <AdSystem>SXP</AdSystem>
+         <Impression><![CDATA[https://hoover.sxp.smartclip.net/bl=21:25:30:32:37:39:44:50:68:77:78:92:93:110:115:126:165:205:213:264:278:284:301:312:373:394:415:450:452:550:624:653:659:699:755:758:772:788:857:985:1025:1195:1237/url=https://viewbox.realytics.net/?m=1&e=1&b=4&o=99&p=69&v=3&lp=DIR_534201&cp=DIR_16441&ap=440916&kp=31419&t=1740586436&r=4881447&sp=in]]></Impression>
+         <Impression><![CDATA[https://stats.smartclip.net/stats/beacon?3;31419;400x320;DIR_534201;440916;iid=058e8000-6f55-4d26-bd31-19d0e5e851dc;ep=1740586436]]></Impression>
+         <Impression><![CDATA[https://stats.sxp.smartclip.net/count?type=imp&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&ang_streamid=a2147ac8-0463-483c-96cc-90c310b61c66]]></Impression>
+         <Impression><![CDATA[https://hoover.sxp.smartclip.net/bl=21:25:30:32:37:39:44:50:68:77:78:92:93:110:115:126:165:205:213:264:278:284:301:312:373:394:415:450:452:550:624:653:659:699:755:758:772:788:857:985:1025:1195:1237/url=https://servedby.flashtalking.com/imp/2/262941;9113217;201;gifimpid;Smartclip;API/?ft_impID=058e8000-6f55-4d26-bd31-19d0e5e851dc&ft_creative=5081728&ft_custom=test_rtlp_vox/hundkatzemaus_1&gdpr=1&gdpr_consent=&cachebuster=8914114]]></Impression>
+         <Extensions>
+            <Extension type="AdServer" name="SXP">
+               <AdInfo cpg="DIR_16441" ite="DIR_534201" crea="440916" variant="NORMAL" />
+            </Extension>
+            <Extension type="AdServer" name="SXP">
+               <AdInfo ite="DIR_534201" crea="440916" cpg="DIR_16441" variant="NORMAL" />
+            </Extension>
+         </Extensions>
+         <AdServingId>SXP-058e8000-6f55-4d26-bd31-19d0e5e851dc</AdServingId>
+         <Error><![CDATA[https://stats.sxp.smartclip.net/count?type=error&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&error=[ERRORCODE]]]></Error>
+         <ViewableImpression>
+            <Viewable><![CDATA[https://stats.sxp.smartclip.net/count?type=Viewable&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Viewable>
+            <NotViewable><![CDATA[https://stats.sxp.smartclip.net/count?type=NotViewable&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></NotViewable>
+            <ViewUndetermined><![CDATA[https://stats.sxp.smartclip.net/count?type=ViewUndetermined&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></ViewUndetermined>
+         </ViewableImpression>
+         <Creatives>
+            <Creative>
+               <UniversalAdId idRegistry="unknown">unknown</UniversalAdId>
+               <Linear>
+                  <TrackingEvents>
+                     <Tracking event="pause"><![CDATA[https://stats.sxp.smartclip.net/count?type=pause&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="unmute"><![CDATA[https://stats.sxp.smartclip.net/count?type=unmute&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="mute"><![CDATA[https://stats.sxp.smartclip.net/count?type=mute&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="playerExpand"><![CDATA[https://stats.sxp.smartclip.net/count?type=playerExpand&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="resume"><![CDATA[https://stats.sxp.smartclip.net/count?type=resume&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="playerCollapse"><![CDATA[https://stats.sxp.smartclip.net/count?type=playerCollapse&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="skip"><![CDATA[https://stats.sxp.smartclip.net/count?type=skip&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://stats.sxp.smartclip.net/count?type=midpoint&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="firstQuartile"><![CDATA[https://stats.sxp.smartclip.net/count?type=firstQuartile&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://stats.sxp.smartclip.net/count?type=start&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="thirdQuartile"><![CDATA[https://stats.sxp.smartclip.net/count?type=thirdQuartile&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="complete"><![CDATA[https://stats.sxp.smartclip.net/count?type=complete&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://hoover.sxp.smartclip.net/bl=21:25:30:32:37:39:44:50:68:77:78:92:93:110:115:126:165:205:213:264:278:284:301:312:373:394:415:450:452:550:624:653:659:699:755:758:772:788:857:985:1025:1195:1237/url=https://servedby.flashtalking.com/state/9113217;5081728;0;271;058e8000-6f55-4d26-bd31-19d0e5e851dc/?cachebuster=7843809]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://hoover.sxp.smartclip.net/bl=21:25:30:32:37:39:44:50:68:77:78:92:93:110:115:126:165:205:213:264:278:284:301:312:373:394:415:450:452:550:624:653:659:699:755:758:772:788:857:985:1025:1195:1237/url=https://ad-events.flashtalking.com/ft.stat?3936;262941;9113217;5081728;0;13;058e8000-6f55-4d26-bd31-19d0e5e851dc;0;4855849-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="firstQuartile"><![CDATA[https://hoover.sxp.smartclip.net/bl=21:25:30:32:37:39:44:50:68:77:78:92:93:110:115:126:165:205:213:264:278:284:301:312:373:394:415:450:452:550:624:653:659:699:755:758:772:788:857:985:1025:1195:1237/url=https://ad-events.flashtalking.com/ft.stat?3936;262941;9113217;5081728;0;14;058e8000-6f55-4d26-bd31-19d0e5e851dc;0;9080374-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://hoover.sxp.smartclip.net/bl=21:25:30:32:37:39:44:50:68:77:78:92:93:110:115:126:165:205:213:264:278:284:301:312:373:394:415:450:452:550:624:653:659:699:755:758:772:788:857:985:1025:1195:1237/url=https://ad-events.flashtalking.com/ft.stat?3936;262941;9113217;5081728;0;15;058e8000-6f55-4d26-bd31-19d0e5e851dc;0;5633571-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="thirdQuartile"><![CDATA[https://hoover.sxp.smartclip.net/bl=21:25:30:32:37:39:44:50:68:77:78:92:93:110:115:126:165:205:213:264:278:284:301:312:373:394:415:450:452:550:624:653:659:699:755:758:772:788:857:985:1025:1195:1237/url=https://ad-events.flashtalking.com/ft.stat?3936;262941;9113217;5081728;0;16;058e8000-6f55-4d26-bd31-19d0e5e851dc;0;4138418-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                     <Tracking event="complete"><![CDATA[https://hoover.sxp.smartclip.net/bl=21:25:30:32:37:39:44:50:68:77:78:92:93:110:115:126:165:205:213:264:278:284:301:312:373:394:415:450:452:550:624:653:659:699:755:758:772:788:857:985:1025:1195:1237/url=https://ad-events.flashtalking.com/ft.stat?3936;262941;9113217;5081728;0;17;058e8000-6f55-4d26-bd31-19d0e5e851dc;0;9439365-test_rtlp_vox/hundkatzemaus_1]]></Tracking>
+                  </TrackingEvents>
+                  <Duration>00:00:10.010</Duration>
+                  <MediaFiles>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="750" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://hoovermedia.sxp.smartclip.net/bl=/url=https://cdn.flashtalking.com/211416/1734431563_asset_640_360_750_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1100" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://hoovermedia.sxp.smartclip.net/bl=/url=https://cdn.flashtalking.com/211416/1734431563_asset_640_360_1100_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="960" height="540" scalable="true" maintainAspectRatio="true"><![CDATA[https://hoovermedia.sxp.smartclip.net/bl=/url=https://cdn.flashtalking.com/211416/1734431563_asset_960_540_1500_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="640" height="360" scalable="true" maintainAspectRatio="true"><![CDATA[https://hoovermedia.sxp.smartclip.net/bl=/url=https://cdn.flashtalking.com/211416/1734431563_asset_640_360_1500_2500.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1800" width="1280" height="720" scalable="true" maintainAspectRatio="true"><![CDATA[https://hoovermedia.sxp.smartclip.net/bl=/url=https://cdn.flashtalking.com/211416/1734431563_asset_1280_720_1800_2500.mp4]]></MediaFile>
+                     <Mezzanine><![CDATA[https://cdn.smartclip.net/creatives/uploads/12709/440916/1734431563_asset_wm.mp4]]></Mezzanine>
+                  </MediaFiles>
+                  <VideoClicks>
+                     <ClickTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=cli&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></ClickTracking>
+                     <ClickTracking><![CDATA[https://hoover.sxp.smartclip.net/bl=21:25:30:32:37:39:44:50:68:77:78:92:93:110:115:126:165:205:213:264:278:284:301:312:373:394:415:450:452:550:624:653:659:699:755:758:772:788:857:985:1025:1195:1237/url=https://servedby.flashtalking.com/click/2/262941;9113217;5081728;211;0/?ft_impID=058e8000-6f55-4d26-bd31-19d0e5e851dc&ft_custom=test_rtlp_vox/hundkatzemaus_1&gdpr=1&gdpr_consent=&cachebuster=1664059&url=https%3A%2F%2Fstats.sxp.smartclip.net%2Fimg%2Ftrpx.gif]]></ClickTracking>
+                     <ClickThrough />
+                  </VideoClicks>
+                  <Icons>
+                     <Icon program="dsainfo" width="18" height="18" xPosition="left" yPosition="top">
+                        <StaticResource creativeType="image/png"><![CDATA[https://cdn.smartclip.net/assets/oba/OBA_60%25.png]]></StaticResource>
+                        <IconViewTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=IconView&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></IconViewTracking>
+                        <IconClicks>
+                           <IconClickThrough><![CDATA[https://privacy-portal.smartclip.net/dsa/info?dsabehalf=testtw01.de&dsapaid=testtw01.de&dsatransparency=smartclip.net~1_2_3&dsaparams=1_2_3&dsasignature=a75f7d28238abaf09a9cc794353474f745bc497024a9f7b7f6a409597d7b06c4]]></IconClickThrough>
+                           <IconClickTracking><![CDATA[https://stats.sxp.smartclip.net/count?type=IconClick&cr=440916&ite=DIR_534201&cpg=DIR_16441&adv=DIR_12709&sitid=31419&pub=9757&iid=058e8000-6f55-4d26-bd31-19d0e5e851dc&rid=6ec8043b-b449-44a3-8676-785b2d9ed99d&net=10036&hhid=e2cc01f0-17be-FEEE-c1ae-eee7191fea0b&ep=1740586436&uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]></IconClickTracking>
+                        </IconClicks>
+                     </Icon>
+                  </Icons>
+               </Linear>
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
+</VAST>
+         </vmap:VASTAdData>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+</vmap:VMAP>

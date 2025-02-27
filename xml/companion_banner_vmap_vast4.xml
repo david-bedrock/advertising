@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+   <vmap:AdBreak breakType="linear" timeOffset="start">
+      <vmap:AdSource allowMultipleAds="true" followRedirects="true">
+         <vmap:VASTAdData>
+<VAST version="4.2">
+   <Ad id="427865:0">
+      <InLine>
+         <AdTitle>
+            <![CDATA[Test_mp4]]>
+         </AdTitle>
+         <Extensions>
+            <Extension type="AdServer" name="SXP">
+               <AdInfo cpg="DIR_78089" ite="DIR_528648" crea="427865" variant="NORMAL" />
+            </Extension>
+            <Extension type="AdServer" name="SXP">
+               <AdInfo customaid="427957" ite="DIR_528648" crea="427865" cpg="DIR_78089" variant="NORMAL">
+                  <Companions>
+                     <Companion id="429922" zone="vaa_overlay" zoneType="COMPANION_BANNER_JAVASCRIPT" />
+                  </Companions>
+               </AdInfo>
+            </Extension>
+         </Extensions>
+         <AdSystem>SXP</AdSystem>
+         <Impression>
+            <![CDATA[https://stats.smartclip.net/stats/beacon?3;33509;400x320;DIR_528648;427865;iid=8317782c-74b5-42ff-ba92-632d4349a78e;ep=1733478018]]>
+         </Impression>
+         <Impression>
+            <![CDATA[https://stats.sxp.smartclip.net/count?type=imp&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+         </Impression>
+         <Impression>
+            <![CDATA[https://cm.g.doubleclick.net/pixel?google_nid=smartclip_dbm&amp;google_cm&amp;google_sc&amp;gdpr=1&amp;gdpr_consent=]]>
+         </Impression>
+         <Impression>
+            <![CDATA[https://match.adsrvr.org/track/cmf/generic?ttd_pid=smartclip&amp;ttd_tpi=1&amp;ttd_puid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;gdpr=&amp;gdpr_consent=]]>
+         </Impression>
+         <Impression>
+            <![CDATA[https://r.turn.com/r/bd?ddc=1&amp;pid=65&amp;uid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;gdpr=1&amp;gdpr_consent=]]>
+         </Impression>
+         <Impression>
+            <![CDATA[https://c1.adform.net/serving/cookie/match?party=20&amp;gdpr=&amp;gdpr_consent=&amp;id=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;forward=https%3A%2F%2Fsync.sxp.smartclip.net%2Fsync%3Ftype%3Dhost%26dsp%3D31%26uuid%3Ddaf7db4a-575f-FEEE-9645-882fbfd004a6%26dspuuid%3D{dspuuid}]]>
+         </Impression>
+         <Impression>
+            <![CDATA[https://d5p.de17a.com/getuid/smartclip?uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+         </Impression>
+         <Impression>
+            <![CDATA[https://secure.adnxs.com/getuid?https://sync.sxp.smartclip.net/sync?type=host&amp;dsp=43&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;dspuuid=$UID&amp;gdpr=&amp;gdpr_consent=]]>
+         </Impression>
+         <Impression>
+            <![CDATA[https://match.adsby.bidtheatre.com/smartclipmatch?uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;gdpr=1&amp;gdpr_consent=]]>
+         </Impression>
+         <Impression>
+            <![CDATA[https://loadeu.exelator.com/load/?p=773&amp;g=204&amp;j=0&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;gdpr=1&amp;gdpr_consent=]]>
+         </Impression>
+         <Impression>
+            <![CDATA[https://dsp-cookie.adfarm1.adition.com/?ssp=18&amp;gdpr=1&amp;gdpr_consent=&amp;cburl=https%3A%2F%2Fsync.sxp.smartclip.net%2Fsync%3Ftype%3Dhost%26dsp%3D50%26uuid%3Ddaf7db4a-575f-FEEE-9645-882fbfd004a6%26dspuuid%3D%5Bdsp_uuid%5D]]>
+         </Impression>
+         <Impression>
+            <![CDATA[https://pr-bh.ybp.yahoo.com/sync/smartx/daf7db4a-575f-FEEE-9645-882fbfd004a6?gdpr=1&amp;gdpr_consent=]]>
+         </Impression>
+         <Impression>
+            <![CDATA[https://sync-tm.everesttech.net/upi/pid/TgE5lmfi?gdpr=&amp;gdpr_consent=&amp;redir=https%3A%2F%2Fsync.sxp.smartclip.net%2Fsync%3Ftype%3Dhost%26dsp%3D73%26uuid%3Ddaf7db4a-575f-FEEE-9645-882fbfd004a6%26dspuuid%3D%24%7BTM_USER_ID%7D]]>
+         </Impression>
+         <Impression>
+            <![CDATA[https://cms.quantserve.com/pixel/p-3khwXEyjvvMHA.gif?idmatch=0&amp;partner_user_id=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;gdpr=&amp;gdpr_consent=]]>
+         </Impression>
+         <AdServingId>SXP-8317782c-74b5-42ff-ba92-632d4349a78e</AdServingId>
+         <Error>
+            <![CDATA[https://stats.sxp.smartclip.net/count?type=error&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;error=[ERRORCODE]]]>
+         </Error>
+         <ViewableImpression>
+            <Viewable>
+               <![CDATA[https://stats.sxp.smartclip.net/count?type=Viewable&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+            </Viewable>
+            <NotViewable>
+               <![CDATA[https://stats.sxp.smartclip.net/count?type=NotViewable&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+            </NotViewable>
+            <ViewUndetermined>
+               <![CDATA[https://stats.sxp.smartclip.net/count?type=ViewUndetermined&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+            </ViewUndetermined>
+         </ViewableImpression>
+         <Creatives>
+            <Creative>
+               <UniversalAdId idRegistry="unknown">unknown</UniversalAdId>
+               <Linear>
+                  <TrackingEvents>
+                     <Tracking event="pause">
+                        <![CDATA[https://stats.sxp.smartclip.net/count?type=pause&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                     </Tracking>
+                     <Tracking event="unmute">
+                        <![CDATA[https://stats.sxp.smartclip.net/count?type=unmute&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                     </Tracking>
+                     <Tracking event="mute">
+                        <![CDATA[https://stats.sxp.smartclip.net/count?type=mute&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                     </Tracking>
+                     <Tracking event="playerExpand">
+                        <![CDATA[https://stats.sxp.smartclip.net/count?type=playerExpand&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                     </Tracking>
+                     <Tracking event="resume">
+                        <![CDATA[https://stats.sxp.smartclip.net/count?type=resume&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                     </Tracking>
+                     <Tracking event="playerCollapse">
+                        <![CDATA[https://stats.sxp.smartclip.net/count?type=playerCollapse&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                     </Tracking>
+                     <Tracking event="skip">
+                        <![CDATA[https://stats.sxp.smartclip.net/count?type=skip&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                     </Tracking>
+                     <Tracking event="midpoint">
+                        <![CDATA[https://stats.sxp.smartclip.net/count?type=midpoint&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                     </Tracking>
+                     <Tracking event="firstQuartile">
+                        <![CDATA[https://stats.sxp.smartclip.net/count?type=firstQuartile&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                     </Tracking>
+                     <Tracking event="start">
+                        <![CDATA[https://stats.sxp.smartclip.net/count?type=start&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                     </Tracking>
+                     <Tracking event="thirdQuartile">
+                        <![CDATA[https://stats.sxp.smartclip.net/count?type=thirdQuartile&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                     </Tracking>
+                     <Tracking event="complete">
+                        <![CDATA[https://stats.sxp.smartclip.net/count?type=complete&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                     </Tracking>
+                  </TrackingEvents>
+                  <Duration>00:00:30.037</Duration>
+                  <MediaFiles>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="320" width="320" height="180" scalable="true" maintainAspectRatio="true">
+                        <![CDATA[https://cdn.smartclip.net/creatives/uploads/43639/427865/1730117661_asset_wm_lq.mp4]]>
+                     </MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="750" width="640" height="360" scalable="true" maintainAspectRatio="true">
+                        <![CDATA[https://cdn.smartclip.net/creatives/uploads/43639/427865/1730117661_asset_wm_mq.mp4]]>
+                     </MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="960" height="540" scalable="true" maintainAspectRatio="true">
+                        <![CDATA[https://cdn.smartclip.net/creatives/uploads/43639/427865/1730117661_asset_wm_hq.mp4]]>
+                     </MediaFile>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1850" width="960" height="540" scalable="true" maintainAspectRatio="true">
+                        <![CDATA[https://cdn.smartclip.net/creatives/uploads/43639/427865/1730117661_asset_wm_hbbtv.mp4]]>
+                     </MediaFile>
+                  </MediaFiles>
+                  <VideoClicks>
+                     <ClickTracking>
+                        <![CDATA[https://stats.sxp.smartclip.net/count?type=cli&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                     </ClickTracking>
+                     <ClickThrough>
+                        <![CDATA[https://rtlplusz.hu]]>
+                     </ClickThrough>
+                  </VideoClicks>
+                  <Icons>
+                     <Icon program="dsainfo" width="18" height="18" xPosition="left" yPosition="top">
+                        <StaticResource creativeType="image/png">
+                           <![CDATA[https://cdn.smartclip.net/assets/oba/OBA_60%25.png]]>
+                        </StaticResource>
+                        <IconViewTracking>
+                           <![CDATA[https://stats.sxp.smartclip.net/count?type=IconView&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                        </IconViewTracking>
+                        <IconClicks>
+                           <IconClickThrough>
+                              <![CDATA[https://privacy-portal.smartclip.net/dsa/info?dsabehalf=rtlplusz.hu&amp;dsapaid=rtlplusz.hu&amp;dsatransparency=smartclip.net~1_2_3&amp;dsaparams=1_2_3&amp;dsasignature=432091f692524c744cd912f9ac6fb1c9a0fe6b64e2fd9e7a697e4495976c97c0]]>
+                           </IconClickThrough>
+                           <IconClickTracking>
+                              <![CDATA[https://stats.sxp.smartclip.net/count?type=IconClick&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                           </IconClickTracking>
+                        </IconClicks>
+                     </Icon>
+                  </Icons>
+               </Linear>
+            </Creative>
+            <Creative>
+               <UniversalAdId idRegistry="unknown">unknown</UniversalAdId>
+               <CompanionAds>
+                  <Companion id="429922" width="1920" height="1080">
+                     <TrackingEvents>
+                        <Tracking event="creativeView">
+                           <![CDATA[https://stats.sxp.smartclip.net/count?type=CompanView&amp;cr=427865&amp;ite=DIR_528648&amp;cpg=DIR_78089&amp;adv=DIR_43639&amp;sitid=33509&amp;pub=27899&amp;iid=8317782c-74b5-42ff-ba92-632d4349a78e&amp;rid=312e71a1-2b93-47cd-94da-2924fc1c5fe8&amp;net=10179&amp;ep=1733478018&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                        </Tracking>
+                     </TrackingEvents>
+                     <StaticResource creativeType="image/jpeg">
+                        <![CDATA[https://cdn.smartclip.net/creatives/uploads/43639/429922/1731597441_asset.jpg]]>
+                     </StaticResource>
+                  </Companion>
+               </CompanionAds>
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
+</VAST>
+         </vmap:VASTAdData>
+      </vmap:AdSource>
+   </vmap:AdBreak>
+</vmap:VMAP>
