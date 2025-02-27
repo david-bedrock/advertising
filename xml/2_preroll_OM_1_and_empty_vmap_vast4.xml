@@ -21,7 +21,7 @@
                <AdVerifications> 
                   <Verification vendor="iabtechlab.com-omid"> 
                      <JavaScriptResource apiFramework="omid" browserOptional="true"> 
-                        <![CDATA[ https://hoovermedia.sxp.smartclip.net/bl=/url=https://raw.githubusercontent.com/david-bedrock/advertising/refs/heads/main/script/omid-validation-verification-script-v1-BEDROCKSTREAMING-01232024.js]]> 
+                        <![CDATA[ https://raw.githubusercontent.com/david-bedrock/advertising/refs/heads/main/script/omid-validation-verification-script-v1-BEDROCKSTREAMING-01232024.js]]> 
                      </JavaScriptResource> 
                      <TrackingEvents> 
                         <Tracking event="verificationNotExecuted"> 
