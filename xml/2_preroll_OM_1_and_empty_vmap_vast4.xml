@@ -1,192 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+<vmap:VMAP
+   xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
    <vmap:AdBreak breakType="linear" timeOffset="start">
       <vmap:AdSource allowMultipleAds="true" followRedirects="true">
          <vmap:VASTAdData>
-<VAST version="4.2">
-   <Ad sequence="1" id="380912:0">
-      <InLine>
-         <AdTitle>
-            <![CDATA[Test ad - Citroen 20s - OM sdk Certification]]>
-         </AdTitle>
-         <Extensions>
-            <Extension type="AdServer" name="SXP">
-               <AdInfo cpg="DIR_61870" ite="DIR_432476" crea="380912" variant="NORMAL" />
-            </Extension>
-            <Extension type="AdServer" name="SXP">
-               <AdInfo ite="DIR_432476" crea="380912" cpg="DIR_61870" variant="NORMAL" />
-            </Extension>
-         </Extensions>
-         <AdSystem>SXP</AdSystem>
-               <AdVerifications> 
-                  <Verification vendor="iabtechlab.com-omid"> 
-                     <JavaScriptResource apiFramework="omid" browserOptional="true"> 
-                        <![CDATA[ https://raw.githubusercontent.com/david-bedrock/advertising/refs/heads/main/script/omid-validation-verification-script-v1-BEDROCKSTREAMING-01232024.js]]> 
-                     </JavaScriptResource> 
-                     <TrackingEvents> 
-                        <Tracking event="verificationNotExecuted"> 
-                           <![CDATA[]]> 
-                        </Tracking> 
-                     </TrackingEvents> 
-                     <VerificationParameters> 
-                        <![CDATA[ "iabtechlab-Bedrockstreaming"]]> 
-                     </VerificationParameters> 
-                  </Verification> 
-               </AdVerifications> 
-         <Impression>
-            <![CDATA[https://stats.smartclip.net/stats/beacon?3;24344;400x320;DIR_432476;380912;iid=e4a2d65f-f96d-4596-b5a2-27e147552218;ep=1733588718]]>
-         </Impression>
-         <Impression>
-            <![CDATA[https://stats.sxp.smartclip.net/count?type=imp&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;caf=1]]>
-         </Impression>
-         <Impression>
-            <![CDATA[https://cm.g.doubleclick.net/pixel?google_nid=smartclip_dbm&amp;google_cm&amp;google_sc&amp;gdpr=1&amp;gdpr_consent=]]>
-         </Impression>
-         <Impression>
-            <![CDATA[https://match.adsrvr.org/track/cmf/generic?ttd_pid=smartclip&amp;ttd_tpi=1&amp;ttd_puid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;gdpr=&amp;gdpr_consent=]]>
-         </Impression>
-         <Impression>
-            <![CDATA[https://hoover.sxp.smartclip.net/bl=/url=https://r.turn.com/r/bd?ddc=1&amp;pid=65&amp;uid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;gdpr=1&amp;gdpr_consent=]]>
-         </Impression>
-         <Impression>
-            <![CDATA[https://c1.adform.net/serving/cookie/match?party=20&amp;gdpr=&amp;gdpr_consent=&amp;id=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;forward=https%3A%2F%2Fsync.sxp.smartclip.net%2Fsync%3Ftype%3Dhost%26dsp%3D31%26uuid%3Ddaf7db4a-575f-FEEE-9645-882fbfd004a6%26dspuuid%3D{dspuuid}]]>
-         </Impression>
-         <Impression>
-            <![CDATA[https://hoover.sxp.smartclip.net/bl=/url=https://d5p.de17a.com/getuid/smartclip?uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-         </Impression>
-         <Impression>
-            <![CDATA[https://secure.adnxs.com/getuid?https://sync.sxp.smartclip.net/sync?type=host&amp;dsp=43&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;dspuuid=$UID&amp;gdpr=&amp;gdpr_consent=]]>
-         </Impression>
-         <Impression>
-            <![CDATA[https://match.adsby.bidtheatre.com/smartclipmatch?uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;gdpr=1&amp;gdpr_consent=]]>
-         </Impression>
-         <Impression>
-            <![CDATA[https://loadeu.exelator.com/load/?p=773&amp;g=204&amp;j=0&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;gdpr=1&amp;gdpr_consent=]]>
-         </Impression>
-         <Impression>
-            <![CDATA[https://dsp-cookie.adfarm1.adition.com/?ssp=18&amp;gdpr=1&amp;gdpr_consent=&amp;cburl=https%3A%2F%2Fsync.sxp.smartclip.net%2Fsync%3Ftype%3Dhost%26dsp%3D50%26uuid%3Ddaf7db4a-575f-FEEE-9645-882fbfd004a6%26dspuuid%3D%5Bdsp_uuid%5D]]>
-         </Impression>
-         <Impression>
-            <![CDATA[https://pr-bh.ybp.yahoo.com/sync/smartx/daf7db4a-575f-FEEE-9645-882fbfd004a6?gdpr=1&amp;gdpr_consent=]]>
-         </Impression>
-         <Impression>
-            <![CDATA[https://sync-tm.everesttech.net/upi/pid/TgE5lmfi?gdpr=&amp;gdpr_consent=&amp;redir=https%3A%2F%2Fsync.sxp.smartclip.net%2Fsync%3Ftype%3Dhost%26dsp%3D73%26uuid%3Ddaf7db4a-575f-FEEE-9645-882fbfd004a6%26dspuuid%3D%24%7BTM_USER_ID%7D]]>
-         </Impression>
-         <Impression>
-            <![CDATA[https://hoover.sxp.smartclip.net/bl=/url=https://cms.quantserve.com/pixel/p-3khwXEyjvvMHA.gif?idmatch=0&amp;partner_user_id=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;gdpr=&amp;gdpr_consent=]]>
-         </Impression>
-         <AdServingId>SXP-e4a2d65f-f96d-4596-b5a2-27e147552218</AdServingId>
-         <Error>
-            <![CDATA[https://stats.sxp.smartclip.net/count?type=error&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;error=[ERRORCODE]]]>
-         </Error>
-         <ViewableImpression>
-            <Viewable>
-               <![CDATA[https://stats.sxp.smartclip.net/count?type=Viewable&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-            </Viewable>
-            <NotViewable>
-               <![CDATA[https://stats.sxp.smartclip.net/count?type=NotViewable&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-            </NotViewable>
-            <ViewUndetermined>
-               <![CDATA[https://stats.sxp.smartclip.net/count?type=ViewUndetermined&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-            </ViewUndetermined>
-         </ViewableImpression>
-         <Creatives>
-            <Creative>
-               <UniversalAdId idRegistry="unknown">unknown</UniversalAdId>
-               <Linear>
-                  <TrackingEvents>
-                     <Tracking event="pause">
-                        <![CDATA[https://stats.sxp.smartclip.net/count?type=pause&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-                     </Tracking>
-                     <Tracking event="unmute">
-                        <![CDATA[https://stats.sxp.smartclip.net/count?type=unmute&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-                     </Tracking>
-                     <Tracking event="mute">
-                        <![CDATA[https://stats.sxp.smartclip.net/count?type=mute&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-                     </Tracking>
-                     <Tracking event="playerExpand">
-                        <![CDATA[https://stats.sxp.smartclip.net/count?type=playerExpand&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-                     </Tracking>
-                     <Tracking event="resume">
-                        <![CDATA[https://stats.sxp.smartclip.net/count?type=resume&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-                     </Tracking>
-                     <Tracking event="playerCollapse">
-                        <![CDATA[https://stats.sxp.smartclip.net/count?type=playerCollapse&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-                     </Tracking>
-                     <Tracking event="skip">
-                        <![CDATA[https://stats.sxp.smartclip.net/count?type=skip&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-                     </Tracking>
-                     <Tracking event="midpoint">
-                        <![CDATA[https://stats.sxp.smartclip.net/count?type=midpoint&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-                     </Tracking>
-                     <Tracking event="firstQuartile">
-                        <![CDATA[https://stats.sxp.smartclip.net/count?type=firstQuartile&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-                     </Tracking>
-                     <Tracking event="start">
-                        <![CDATA[https://stats.sxp.smartclip.net/count?type=start&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-                     </Tracking>
-                     <Tracking event="thirdQuartile">
-                        <![CDATA[https://stats.sxp.smartclip.net/count?type=thirdQuartile&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-                     </Tracking>
-                     <Tracking event="complete">
-                        <![CDATA[https://stats.sxp.smartclip.net/count?type=complete&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-                     </Tracking>
-                  </TrackingEvents>
-                  <Duration>00:00:20.011</Duration>
-                  <MediaFiles>
-                     <MediaFile delivery="progressive" type="video/mp4" bitrate="750" width="640" height="360" scalable="true" maintainAspectRatio="true">
-                        <![CDATA[https://cdn.smartclip.net/creatives/uploads/20232/380912/1690982985_asset_wm_mq.mp4]]>
-                     </MediaFile>
-                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="960" height="540" scalable="true" maintainAspectRatio="true">
-                        <![CDATA[https://cdn.smartclip.net/creatives/uploads/20232/380912/1690982985_asset_wm_hq.mp4]]>
-                     </MediaFile>
-                     <MediaFile delivery="progressive" type="video/mp4" bitrate="1850" width="960" height="540" scalable="true" maintainAspectRatio="true">
-                        <![CDATA[https://cdn.smartclip.net/creatives/uploads/20232/380912/1690982985_asset_wm_hbbtv.mp4]]>
-                     </MediaFile>
-                  </MediaFiles>
-                  <VideoClicks>
-                     <ClickTracking>
-                        <![CDATA[https://stats.sxp.smartclip.net/count?type=cli&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-                     </ClickTracking>
-                     <ClickThrough>
-                        <![CDATA[https://www.citroen.fr/]]>
-                     </ClickThrough>
-                  </VideoClicks>
-                  <Icons>
-                     <Icon program="dsainfo" width="18" height="18" xPosition="left" yPosition="top">
-                        <StaticResource creativeType="image/png">
-                           <![CDATA[https://cdn.smartclip.net/assets/oba/OBA_60%25.png]]>
-                        </StaticResource>
-                        <IconViewTracking>
-                           <![CDATA[https://stats.sxp.smartclip.net/count?type=IconView&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-                        </IconViewTracking>
-                        <IconClicks>
-                           <IconClickThrough>
-                              <![CDATA[https://privacy-portal.smartclip.net/dsa/info?dsabehalf=bedrocktest.com&amp;dsapaid=bedrocktest.com&amp;dsatransparency=smartclip.net~1_2_3&amp;dsaparams=1_2_3&amp;dsasignature=24cff6da3bbfd8f06ff33ea60a4547600f3598f8d8ebe85ff54eb6f74a5c8d5d]]>
-                           </IconClickThrough>
-                           <IconClickTracking>
-                              <![CDATA[https://stats.sxp.smartclip.net/count?type=IconClick&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
-                           </IconClickTracking>
-                        </IconClicks>
-                     </Icon>
-                  </Icons>
-               </Linear>
-            </Creative>
-         </Creatives>
-      </InLine>
-   </Ad>
-   <Ad sequence="2" id="ADFILL:0">
-      <Wrapper>
-         <AdSystem>SXP</AdSystem>
-         <VASTAdTagURI>
-            <![CDATA[https://ad.sxp.smartclip.net/select?type=vast4&amp;crea=-3000&amp;opt=&amp;ang_testid=1]]>
-         </VASTAdTagURI>
-         <Error>
-            <![CDATA[https://stats.sxp.smartclip.net/count?type=error&amp;cr=ADFILL&amp;ite=ADFILL&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=6e1882bd-cfe1-466c-bff0-90c4fe1f58f3&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;error=[ERRORCODE]]]>
-         </Error>
-      </Wrapper>
-   </Ad>
-</VAST>
+            <VAST version="4.2">
+               <Ad sequence="1" id="380912:0">
+                  <InLine>
+                     <AdTitle>
+                        <![CDATA[Test ad - Citroen 20s - OM sdk Certification]]>
+                     </AdTitle>
+                     <Extensions>
+                        <Extension type="AdServer" name="SXP">
+                           <AdInfo cpg="DIR_61870" ite="DIR_432476" crea="380912" variant="NORMAL" />
+                        </Extension>
+                        <Extension type="AdServer" name="SXP">
+                           <AdInfo ite="DIR_432476" crea="380912" cpg="DIR_61870" variant="NORMAL" />
+                        </Extension>
+                     </Extensions>
+                     <AdSystem>SXP</AdSystem>
+                     <AdVerifications>
+                        <Verification vendor="iabtechlab.com-omid">
+                           <JavaScriptResource apiFramework="omid" browserOptional="true">
+                              <![CDATA[https://raw.githubusercontent.com/david-bedrock/advertising/refs/heads/main/script/omid-validation-verification-script-v1-BEDROCKSTREAMING-01232024.js]]>
+                           </JavaScriptResource>
+                           <TrackingEvents>
+                              <Tracking event="verificationNotExecuted">
+                                 <![CDATA[]]>
+                              </Tracking>
+                           </TrackingEvents>
+                           <VerificationParameters>
+                              <![CDATA[ "iabtechlab-Bedrockstreaming"]]>
+                           </VerificationParameters>
+                        </Verification>
+                     </AdVerifications>
+                     <Impression>
+                        <![CDATA[https://stats.smartclip.net/stats/beacon?3;24344;400x320;DIR_432476;380912;iid=e4a2d65f-f96d-4596-b5a2-27e147552218;ep=1733588718]]>
+                     </Impression>
+                     <Impression>
+                        <![CDATA[https://stats.sxp.smartclip.net/count?type=imp&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;caf=1]]>
+                     </Impression>
+                     <Impression>
+                        <![CDATA[https://cm.g.doubleclick.net/pixel?google_nid=smartclip_dbm&amp;google_cm&amp;google_sc&amp;gdpr=1&amp;gdpr_consent=]]>
+                     </Impression>
+                     <Impression>
+                        <![CDATA[https://match.adsrvr.org/track/cmf/generic?ttd_pid=smartclip&amp;ttd_tpi=1&amp;ttd_puid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;gdpr=&amp;gdpr_consent=]]>
+                     </Impression>
+                     <Impression>
+                        <![CDATA[https://hoover.sxp.smartclip.net/bl=/url=https://r.turn.com/r/bd?ddc=1&amp;pid=65&amp;uid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;gdpr=1&amp;gdpr_consent=]]>
+                     </Impression>
+                     <Impression>
+                        <![CDATA[https://c1.adform.net/serving/cookie/match?party=20&amp;gdpr=&amp;gdpr_consent=&amp;id=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;forward=https%3A%2F%2Fsync.sxp.smartclip.net%2Fsync%3Ftype%3Dhost%26dsp%3D31%26uuid%3Ddaf7db4a-575f-FEEE-9645-882fbfd004a6%26dspuuid%3D{dspuuid}]]>
+                     </Impression>
+                     <Impression>
+                        <![CDATA[https://hoover.sxp.smartclip.net/bl=/url=https://d5p.de17a.com/getuid/smartclip?uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                     </Impression>
+                     <Impression>
+                        <![CDATA[https://secure.adnxs.com/getuid?https://sync.sxp.smartclip.net/sync?type=host&amp;dsp=43&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;dspuuid=$UID&amp;gdpr=&amp;gdpr_consent=]]>
+                     </Impression>
+                     <Impression>
+                        <![CDATA[https://match.adsby.bidtheatre.com/smartclipmatch?uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;gdpr=1&amp;gdpr_consent=]]>
+                     </Impression>
+                     <Impression>
+                        <![CDATA[https://loadeu.exelator.com/load/?p=773&amp;g=204&amp;j=0&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;gdpr=1&amp;gdpr_consent=]]>
+                     </Impression>
+                     <Impression>
+                        <![CDATA[https://dsp-cookie.adfarm1.adition.com/?ssp=18&amp;gdpr=1&amp;gdpr_consent=&amp;cburl=https%3A%2F%2Fsync.sxp.smartclip.net%2Fsync%3Ftype%3Dhost%26dsp%3D50%26uuid%3Ddaf7db4a-575f-FEEE-9645-882fbfd004a6%26dspuuid%3D%5Bdsp_uuid%5D]]>
+                     </Impression>
+                     <Impression>
+                        <![CDATA[https://pr-bh.ybp.yahoo.com/sync/smartx/daf7db4a-575f-FEEE-9645-882fbfd004a6?gdpr=1&amp;gdpr_consent=]]>
+                     </Impression>
+                     <Impression>
+                        <![CDATA[https://sync-tm.everesttech.net/upi/pid/TgE5lmfi?gdpr=&amp;gdpr_consent=&amp;redir=https%3A%2F%2Fsync.sxp.smartclip.net%2Fsync%3Ftype%3Dhost%26dsp%3D73%26uuid%3Ddaf7db4a-575f-FEEE-9645-882fbfd004a6%26dspuuid%3D%24%7BTM_USER_ID%7D]]>
+                     </Impression>
+                     <Impression>
+                        <![CDATA[https://hoover.sxp.smartclip.net/bl=/url=https://cms.quantserve.com/pixel/p-3khwXEyjvvMHA.gif?idmatch=0&amp;partner_user_id=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;gdpr=&amp;gdpr_consent=]]>
+                     </Impression>
+                     <AdServingId>SXP-e4a2d65f-f96d-4596-b5a2-27e147552218</AdServingId>
+                     <Error>
+                        <![CDATA[https://stats.sxp.smartclip.net/count?type=error&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;error=[ERRORCODE]]]>
+                     </Error>
+                     <ViewableImpression>
+                        <Viewable>
+                           <![CDATA[https://stats.sxp.smartclip.net/count?type=Viewable&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                        </Viewable>
+                        <NotViewable>
+                           <![CDATA[https://stats.sxp.smartclip.net/count?type=NotViewable&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                        </NotViewable>
+                        <ViewUndetermined>
+                           <![CDATA[https://stats.sxp.smartclip.net/count?type=ViewUndetermined&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                        </ViewUndetermined>
+                     </ViewableImpression>
+                     <Creatives>
+                        <Creative>
+                           <UniversalAdId idRegistry="unknown">unknown</UniversalAdId>
+                           <Linear>
+                              <TrackingEvents>
+                                 <Tracking event="pause">
+                                    <![CDATA[https://stats.sxp.smartclip.net/count?type=pause&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                                 </Tracking>
+                                 <Tracking event="unmute">
+                                    <![CDATA[https://stats.sxp.smartclip.net/count?type=unmute&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                                 </Tracking>
+                                 <Tracking event="mute">
+                                    <![CDATA[https://stats.sxp.smartclip.net/count?type=mute&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                                 </Tracking>
+                                 <Tracking event="playerExpand">
+                                    <![CDATA[https://stats.sxp.smartclip.net/count?type=playerExpand&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                                 </Tracking>
+                                 <Tracking event="resume">
+                                    <![CDATA[https://stats.sxp.smartclip.net/count?type=resume&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                                 </Tracking>
+                                 <Tracking event="playerCollapse">
+                                    <![CDATA[https://stats.sxp.smartclip.net/count?type=playerCollapse&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                                 </Tracking>
+                                 <Tracking event="skip">
+                                    <![CDATA[https://stats.sxp.smartclip.net/count?type=skip&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                                 </Tracking>
+                                 <Tracking event="midpoint">
+                                    <![CDATA[https://stats.sxp.smartclip.net/count?type=midpoint&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                                 </Tracking>
+                                 <Tracking event="firstQuartile">
+                                    <![CDATA[https://stats.sxp.smartclip.net/count?type=firstQuartile&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                                 </Tracking>
+                                 <Tracking event="start">
+                                    <![CDATA[https://stats.sxp.smartclip.net/count?type=start&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                                 </Tracking>
+                                 <Tracking event="thirdQuartile">
+                                    <![CDATA[https://stats.sxp.smartclip.net/count?type=thirdQuartile&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                                 </Tracking>
+                                 <Tracking event="complete">
+                                    <![CDATA[https://stats.sxp.smartclip.net/count?type=complete&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                                 </Tracking>
+                              </TrackingEvents>
+                              <Duration>00:00:20.011</Duration>
+                              <MediaFiles>
+                                 <MediaFile delivery="progressive" type="video/mp4" bitrate="750" width="640" height="360" scalable="true" maintainAspectRatio="true">
+                                    <![CDATA[https://cdn.smartclip.net/creatives/uploads/20232/380912/1690982985_asset_wm_mq.mp4]]>
+                                 </MediaFile>
+                                 <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="960" height="540" scalable="true" maintainAspectRatio="true">
+                                    <![CDATA[https://cdn.smartclip.net/creatives/uploads/20232/380912/1690982985_asset_wm_hq.mp4]]>
+                                 </MediaFile>
+                                 <MediaFile delivery="progressive" type="video/mp4" bitrate="1850" width="960" height="540" scalable="true" maintainAspectRatio="true">
+                                    <![CDATA[https://cdn.smartclip.net/creatives/uploads/20232/380912/1690982985_asset_wm_hbbtv.mp4]]>
+                                 </MediaFile>
+                              </MediaFiles>
+                              <VideoClicks>
+                                 <ClickTracking>
+                                    <![CDATA[https://stats.sxp.smartclip.net/count?type=cli&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                                 </ClickTracking>
+                                 <ClickThrough>
+                                    <![CDATA[https://www.citroen.fr/]]>
+                                 </ClickThrough>
+                              </VideoClicks>
+                              <Icons>
+                                 <Icon program="dsainfo" width="18" height="18" xPosition="left" yPosition="top">
+                                    <StaticResource creativeType="image/png">
+                                       <![CDATA[https://cdn.smartclip.net/assets/oba/OBA_60%25.png]]>
+                                    </StaticResource>
+                                    <IconViewTracking>
+                                       <![CDATA[https://stats.sxp.smartclip.net/count?type=IconView&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                                    </IconViewTracking>
+                                    <IconClicks>
+                                       <IconClickThrough>
+                                          <![CDATA[https://privacy-portal.smartclip.net/dsa/info?dsabehalf=bedrocktest.com&amp;dsapaid=bedrocktest.com&amp;dsatransparency=smartclip.net~1_2_3&amp;dsaparams=1_2_3&amp;dsasignature=24cff6da3bbfd8f06ff33ea60a4547600f3598f8d8ebe85ff54eb6f74a5c8d5d]]>
+                                       </IconClickThrough>
+                                       <IconClickTracking>
+                                          <![CDATA[https://stats.sxp.smartclip.net/count?type=IconClick&amp;cr=380912&amp;ite=DIR_432476&amp;cpg=DIR_61870&amp;adv=DIR_20232&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=e4a2d65f-f96d-4596-b5a2-27e147552218&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6]]>
+                                       </IconClickTracking>
+                                    </IconClicks>
+                                 </Icon>
+                              </Icons>
+                           </Linear>
+                        </Creative>
+                     </Creatives>
+                  </InLine>
+               </Ad>
+               <Ad sequence="2" id="ADFILL:0">
+                  <Wrapper>
+                     <AdSystem>SXP</AdSystem>
+                     <VASTAdTagURI>
+                        <![CDATA[https://ad.sxp.smartclip.net/select?type=vast4&amp;crea=-3000&amp;opt=&amp;ang_testid=1]]>
+                     </VASTAdTagURI>
+                     <Error>
+                        <![CDATA[https://stats.sxp.smartclip.net/count?type=error&amp;cr=ADFILL&amp;ite=ADFILL&amp;plgid=79490&amp;sitid=24344&amp;pub=12881&amp;iid=6e1882bd-cfe1-466c-bff0-90c4fe1f58f3&amp;rid=716e84bb-3309-4ebb-ad4e-f553e44bc584&amp;net=10106&amp;ep=1733588718&amp;uuid=daf7db4a-575f-FEEE-9645-882fbfd004a6&amp;error=[ERRORCODE]]]>
+                     </Error>
+                  </Wrapper>
+               </Ad>
+            </VAST>
          </vmap:VASTAdData>
       </vmap:AdSource>
    </vmap:AdBreak>
